@@ -4,14 +4,15 @@ export const featuredPortfolio = [
       title: "TinDog",
       img:
         "https://repository-images.githubusercontent.com/351409525/51bcca45-1618-4148-b2a2-e787f3991f72",
-      link : "https://github.com/Surya-7/UnLeash"
+      link : "https://github.com/Surya-7/TinDog"
     },
     {
       id: 2,
       title: "Social Media App",
       img:
         "https://www.dotcominfoway.com/wp-content/uploads/2020/01/social-media-app-cost.png",
-        link : "https://github.com/Surya-7/TinDog"
+        link : "https://github.com/Surya-7/UnLeash"
+        
     },
     {
       id: 3,
@@ -37,7 +38,7 @@ export const featuredPortfolio = [
       title: "TinDog",
       img:
         "https://repository-images.githubusercontent.com/351409525/51bcca45-1618-4148-b2a2-e787f3991f72",
-      link : "https://github.com/Surya-7/UnLeash"
+      link : "https://github.com/Surya-7/TinDog"
     },
     {
       id: 5,
@@ -58,7 +59,7 @@ export const featuredPortfolio = [
       title: "Social Media App",
       img:
         "https://www.dotcominfoway.com/wp-content/uploads/2020/01/social-media-app-cost.png",
-        link : "https://github.com/Surya-7/TinDog"
+        link : "https://github.com/Surya-7/UnLeash"
     },
     {
       id: 3,
